@@ -1,7 +1,6 @@
 {
-  "name": "ESPHome",
+  "name": "Petit Bot",
   "version": "2021.11.0",
-  "home_assistant_domain": "esphome",
   "funding_url": "https://esphome.io/guides/supporters.html",
   "new_install_prompt_erase": false,
   "builds": [   
